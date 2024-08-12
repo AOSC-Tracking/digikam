@@ -421,7 +421,7 @@ void FilesDownloader::slotDownloadProgress(qint64 bytesReceived, qint64 bytesTot
 
 QString FilesDownloader::getFacesEnginePath() const
 {
-    QString appPath = QStandardPaths::writableLocation(QStandardPaths::GenericDataLocation);
+    QUrl appUrl = QUrl::fromLocalFile(QLatin1String("/usr/share/"));
     appPath        += QLatin1String("/digikam/facesengine");
 
     return appPath;
