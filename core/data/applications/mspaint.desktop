@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=Microsoft Paint
+Name[be]=Microsoft Paint
+Name[bg]=Microsoft Paint
+Name[ca]=Microsoft Paint
+Name[ca@valencia]=Microsoft Paint
+Name[cs]=Microsoft Paint
+Name[en_GB]=Microsoft Paint
+Name[eo]=Microsoft Paint
+Name[es]=Microsoft Paint
+Name[eu]=Microsoft Paint
+Name[fr]=Microsoft Paint
+Name[is]=Microsoft Paint
+Name[it]=Microsoft Paint
+Name[ka]=Microsoft Paint
+Name[nl]=Microsoft Paint
+Name[sl]=Microsoft Paint
+Name[sv]=Microsoft Paint
+Name[tr]=Microsoft Paint
+Name[uk]=Microsoft Paint
+Name[x-test]=xxMicrosoft Paintxx
+Name[zh_CN]=微软画图
+Name[zh_TW]=Microsoft 小畫家
+X-Exec=mspaint.exe %f
+X-Icon=mspaint.exe
+MimeType=image/jpg;image/bmp;image/png

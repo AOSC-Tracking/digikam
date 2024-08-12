@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=XnView
+Name[be]=XnView
+Name[bg]=XnView
+Name[ca]=XnView
+Name[ca@valencia]=XnView
+Name[cs]=XnView
+Name[en_GB]=XnView
+Name[eo]=XnView
+Name[es]=XnView
+Name[eu]=XnView
+Name[fr]=XnView
+Name[is]=XnView
+Name[it]=XnView
+Name[ka]=XnView
+Name[nl]=XnView
+Name[sl]=XnView
+Name[sv]=XnView
+Name[tr]=XnView
+Name[uk]=XnView
+Name[x-test]=xxXnViewxx
+Name[zh_CN]=XnView
+Name[zh_TW]=XnView
+X-Exec=%ProgramFiles(x86)%/XnView/xnview.exe %f
+X-Icon=%ProgramFiles(x86)%/XnView/xnview.exe
+MimeType=image/jpg;image/bmp;image/png

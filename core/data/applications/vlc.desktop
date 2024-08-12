@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=VLC media player
+Name[be]=Медыяпрайгравальнік VLC
+Name[bg]=VLC media player
+Name[ca]=Reproductor multimèdia VLC
+Name[ca@valencia]=Reproductor multimèdia VLC
+Name[cs]=Přehrávač médií VLC
+Name[en_GB]=VLC media player
+Name[eo]=VLC media player
+Name[es]=Reproductor multimedia VLC
+Name[eu]=VLC hedabide jotzailea
+Name[fr]=Lecteur multimédia VLC
+Name[is]=VLC margmiðlunarspilari
+Name[it]=Riproduttore multimediale VLC
+Name[ka]=VLC media player
+Name[nl]=VLC mediaspeler
+Name[sl]=Medijski predvajalnik VLC
+Name[sv]=VLC mediaspelare
+Name[tr]=VLC Ortam Oynatıcısı
+Name[uk]=Мультимедійний програвач VLC
+Name[x-test]=xxVLC media playerxx
+Name[zh_CN]=VLC 媒体播放器
+Name[zh_TW]=VLC 媒體播放器
+X-Exec=vlc.exe %f
+X-Icon=vlc.exe
+MimeType=video/mp4;video/mov;video/mpg;video/wmv

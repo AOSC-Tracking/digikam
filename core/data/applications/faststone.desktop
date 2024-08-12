@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=FastStone Image Viewer
+Name[be]=Сродак для прагляду выяў FastStone
+Name[bg]=FastStone Image Viewer
+Name[ca]=FastStone Image Viewer
+Name[ca@valencia]=Visor d'imatges FastStone
+Name[cs]=Prohlížeč fotografií FastStone
+Name[en_GB]=FastStone Image Viewer
+Name[eo]=FastStone Image Viewer
+Name[es]=Visor de imágenes FastStone
+Name[eu]=FastStone irudi-ikustailea
+Name[fr]=Afficheur d'images FastStone
+Name[is]=FastStone myndskoðari
+Name[it]=Visualizzatore di immagini FastStone
+Name[ka]=FastStone-ის სურათების დათვალიერება
+Name[nl]=FastStone Afbeeldingsviewer
+Name[sl]=Ogledovalnik slik FastStone
+Name[sv]=FastStone bildvisning
+Name[tr]=FastStone Image Viewer
+Name[uk]=FastStone Image Viewer
+Name[x-test]=xxFastStone Image Viewerxx
+Name[zh_CN]=FastStone 图像查看器
+Name[zh_TW]=FastStone 影像檢視器
+X-Exec=FSViewer.exe %f
+X-Icon=FSViewer.exe
+MimeType=image/jpg;image/bmp;image/png

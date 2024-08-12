@@ -1,0 +1,27 @@
+[Desktop Entry]
+Type=Application
+Name=DxO Photolab 7
+Name[be]=DxO Photolab 7
+Name[bg]=DxO Photolab 7
+Name[ca]=DxO Photolab 7
+Name[ca@valencia]=DxO Photolab 7
+Name[cs]=DxO Photolab 7
+Name[en_GB]=DxO Photolab 7
+Name[eo]=DxO Photolab 7
+Name[es]=DxO Photolab 7
+Name[eu]=DxO Photolab 7
+Name[fr]=DxO Photolab 7
+Name[is]=DxO Photolab 7
+Name[it]=DxO Photolab 7
+Name[ka]=DxO Photolab 7
+Name[nl]=DxO Photolab 7
+Name[sl]=DxO Photolab 7
+Name[sv]=DxO Photolab 7
+Name[tr]=DxO Photolab 7
+Name[uk]=DxO Photolab 7
+Name[x-test]=xxDxO Photolab 7xx
+Name[zh_CN]=DxO Photolab 7
+Name[zh_TW]=DxO Photolab 7
+X-Exec="%ProgramFiles%/DxO/DxO PhotoLab 7/DxO.PhotoLab.exe" %f
+X-Icon="%ProgramFiles%/DxO/DxO PhotoLab 7/DxO.PhotoLab.exe"
+MimeType=image/jpg;image/raw
